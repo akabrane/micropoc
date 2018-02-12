@@ -8,6 +8,7 @@
 	<packaging>pom</packaging>
 	<name>piggymetrics</name>
 
+
 	<modules>
 		<module>config</module>
 		<module>monitoring</module>
